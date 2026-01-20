@@ -273,7 +273,7 @@ local function createWhitelistGUI()
                 
                 - Execute your main script here
                 pcall(function()
-              loadstring(game:HttpGet("https://raw.githubusercontent.com/k13-Shi/tangadimomacracracktoh/refs/heads/main/...",true))()
+              loadstring(game:HttpGet("https://raw.githubusercontent.com/SaixLyn/K13-Farming/refs/heads/main/Packs",true))()
                 end)
                 
                 screenGui:Destroy()
