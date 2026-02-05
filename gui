@@ -1,8 +1,8 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SCRIPTDEVELOPERzzzz/Fuji-Kaze/refs/heads/main/Yellow"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/k13-Shi/PH-No.1/refs/heads/main/marky.ui"))()
 
 local Window = Library:CreateWindow{
-    Title = "SLH Paid Fluent |",
-    SubTitle = "Version 1.0.0",
+    Title = "K13 Shi Paid |",
+    SubTitle = "Version 69",
     Size = UDim2.fromOffset(480, 320),
     TabWidth = 110,
     Acrylic = true,
