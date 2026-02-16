@@ -1,7 +1,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/k13-Shi/PH-No.1/refs/heads/main/marky.ui"))()
 
 local Window = Library:CreateWindow{
-    Title = "K13 Paid by shi | PhilxEpicdevv",
+    Title = "K13 Paid by shi |",
     SubTitle = "Version 1.0.0",
     Size = UDim2.fromOffset(480, 320),
     TabWidth = 110,
